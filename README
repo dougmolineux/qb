@@ -7,3 +7,5 @@ In it's early stages the game starts with predefined player positions and basica
 This project works properly in Android 4.0.3 and it uses the AndEngine library.
 
 I was hoping to develop a way to parse XML files that define plays. Such as which player moves to where. This way a play creator could also be created allowing the player to create their own plays, and dynamically add them to the game.
+
+![alt tag](https://raw.github.com/dougmolineux/qb/master/screenshots/hike.png)
