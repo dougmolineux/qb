@@ -81,7 +81,7 @@ public class qbPlayer {
 			@Override
 			public float onUpdate(float pSecondsElapsed, IEntity pItem) {
 				return super.onUpdate(pSecondsElapsed, pItem);
-			}
+			} 
 		};
 
 		// apply modifier
